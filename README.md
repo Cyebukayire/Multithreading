@@ -1,2 +1,2 @@
-# Multithreading
+# MultiThreading
 Multithreading in Java
